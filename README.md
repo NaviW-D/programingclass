@@ -1,4 +1,4 @@
 # programingclass
 
 salam
-Harkas Hast Salam
+Harkasa Salam
